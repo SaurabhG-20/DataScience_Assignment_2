@@ -7,15 +7,15 @@ generate a list.
 
 2. Create the below pattern using nested for loop in Python.
 
- " *
- " * *
- " * * *
- " * * * *
- " * * * * *
- " * * * *
- " * * *
- " * *
- " *
+ *
+ * *
+ * * *
+ * * * *
+ * * * * *
+ * * * *
+ * * *
+ * *
+ *
 
 3. Write a Python program to reverse a word after accepting the input from the user.
 Sample Output:
@@ -34,5 +34,8 @@ WE, THE PEOPLE OF INDIA,
              
              
  # Note 
+ 
+ 1. Please refer Screenshot directory for output of Screenshot 
+ 2. Please refer Sourcecode directory for Pyhton Sourcecode file
  
  
